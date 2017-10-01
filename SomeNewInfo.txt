@@ -5,3 +5,5 @@ Resolved All conflicts
 Commit from GitBash
 
 Resolve the conflictef GitBash line
+
+Create conflict with develop branch
