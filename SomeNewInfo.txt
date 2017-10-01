@@ -1,3 +1,5 @@
 First Home Work Commit
 
 Resolved All conflicts
+
+Commit from GitBash
