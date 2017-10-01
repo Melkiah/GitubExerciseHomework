@@ -1,2 +1,3 @@
 First Home Work Commit
-Conflict in branches
+
+Resolved All conflicts
