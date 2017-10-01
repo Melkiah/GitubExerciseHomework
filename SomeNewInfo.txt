@@ -4,4 +4,4 @@ Resolved All conflicts
 
 Commit from GitBash
 
-GitBashConflict
+Resolve the conflictef GitBash line
