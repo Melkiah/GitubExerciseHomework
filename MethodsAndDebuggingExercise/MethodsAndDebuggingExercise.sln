@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeProperties", "CubePrope
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryCalculator", "GeometryCalculator\GeometryCalculator.csproj", "{78B0BEBE-82A8-40C1-B5DD-D17D7A275B3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterNumber", "MasterNumber\MasterNumber.csproj", "{34CA7860-E39A-4F45-BA44-00B32CA475D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{78B0BEBE-82A8-40C1-B5DD-D17D7A275B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78B0BEBE-82A8-40C1-B5DD-D17D7A275B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78B0BEBE-82A8-40C1-B5DD-D17D7A275B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34CA7860-E39A-4F45-BA44-00B32CA475D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34CA7860-E39A-4F45-BA44-00B32CA475D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34CA7860-E39A-4F45-BA44-00B32CA475D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34CA7860-E39A-4F45-BA44-00B32CA475D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

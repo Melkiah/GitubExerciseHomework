@@ -1,0 +1,7 @@
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\MasterNumber\bin\Debug\MasterNumber.exe.config
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\MasterNumber\bin\Debug\MasterNumber.exe
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\MasterNumber\bin\Debug\MasterNumber.pdb
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\MasterNumber\obj\Debug\MasterNumber.csprojResolveAssemblyReference.cache
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\MasterNumber\obj\Debug\MasterNumber.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\MasterNumber\obj\Debug\MasterNumber.exe
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\MasterNumber\obj\Debug\MasterNumber.pdb
