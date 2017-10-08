@@ -1,0 +1,6 @@
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\GetMaxMethod\bin\Debug\GetMaxMethod.exe.config
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\GetMaxMethod\bin\Debug\GetMaxMethod.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\GetMaxMethod\bin\Debug\GetMaxMethod.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\GetMaxMethod\obj\Debug\GetMaxMethod.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\GetMaxMethod\obj\Debug\GetMaxMethod.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\GetMaxMethod\obj\Debug\GetMaxMethod.pdb

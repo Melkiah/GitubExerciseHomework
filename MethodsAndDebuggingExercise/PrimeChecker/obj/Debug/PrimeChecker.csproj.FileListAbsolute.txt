@@ -1,0 +1,6 @@
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\PrimeChecker\bin\Debug\PrimeChecker.exe.config
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\PrimeChecker\bin\Debug\PrimeChecker.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\PrimeChecker\bin\Debug\PrimeChecker.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\PrimeChecker\obj\Debug\PrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\PrimeChecker\obj\Debug\PrimeChecker.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\PrimeChecker\obj\Debug\PrimeChecker.pdb

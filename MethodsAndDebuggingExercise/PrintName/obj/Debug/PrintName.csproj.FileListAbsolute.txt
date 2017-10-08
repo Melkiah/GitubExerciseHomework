@@ -1,0 +1,7 @@
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\PrintName\bin\Debug\PrintName.exe.config
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\PrintName\bin\Debug\PrintName.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\PrintName\bin\Debug\PrintName.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\PrintName\obj\Debug\PrintName.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\PrintName\obj\Debug\PrintName.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\PrintName\obj\Debug\PrintName.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\PrintName\obj\Debug\PrintName.csprojResolveAssemblyReference.cache

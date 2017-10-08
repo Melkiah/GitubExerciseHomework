@@ -1,0 +1,6 @@
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe.config
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.pdb

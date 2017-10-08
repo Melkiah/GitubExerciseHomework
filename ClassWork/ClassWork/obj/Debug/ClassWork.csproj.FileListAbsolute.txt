@@ -1,0 +1,8 @@
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\ClassWork\bin\Debug\ClassWork.exe.config
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\ClassWork\bin\Debug\ClassWork.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\ClassWork\bin\Debug\ClassWork.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\ClassWork\obj\Debug\ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\ClassWork\obj\Debug\ClassWork.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\ClassWork\obj\Debug\ClassWork.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\ClassWork\bin\Debug\ClassWork.exe.CodeAnalysisLog.xml
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\ClassWork\bin\Debug\ClassWork.exe.lastcodeanalysissucceeded

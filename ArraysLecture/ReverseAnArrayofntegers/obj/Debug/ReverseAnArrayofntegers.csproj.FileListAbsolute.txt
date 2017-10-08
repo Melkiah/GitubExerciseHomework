@@ -1,0 +1,7 @@
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\ReverseAnArrayofntegers\bin\Debug\ReverseAnArrayofntegers.exe.config
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\ReverseAnArrayofntegers\bin\Debug\ReverseAnArrayofntegers.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\ReverseAnArrayofntegers\bin\Debug\ReverseAnArrayofntegers.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\ReverseAnArrayofntegers\obj\Debug\ReverseAnArrayofntegers.csprojResolveAssemblyReference.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\ReverseAnArrayofntegers\obj\Debug\ReverseAnArrayofntegers.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\ReverseAnArrayofntegers\obj\Debug\ReverseAnArrayofntegers.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\ReverseAnArrayofntegers\obj\Debug\ReverseAnArrayofntegers.pdb

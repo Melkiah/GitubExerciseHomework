@@ -1,0 +1,6 @@
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\NumberTriangles\bin\Debug\NumberTriangles.exe.config
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\NumberTriangles\bin\Debug\NumberTriangles.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\NumberTriangles\bin\Debug\NumberTriangles.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\NumberTriangles\obj\Debug\NumberTriangles.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\NumberTriangles\obj\Debug\NumberTriangles.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\NumberTriangles\obj\Debug\NumberTriangles.pdb

@@ -1,0 +1,6 @@
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\PrimesInRange\bin\Debug\PrimesInRange.exe.config
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\PrimesInRange\bin\Debug\PrimesInRange.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\PrimesInRange\bin\Debug\PrimesInRange.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\PrimesInRange\obj\Debug\PrimesInRange.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\PrimesInRange\obj\Debug\PrimesInRange.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\PrimesInRange\obj\Debug\PrimesInRange.pdb

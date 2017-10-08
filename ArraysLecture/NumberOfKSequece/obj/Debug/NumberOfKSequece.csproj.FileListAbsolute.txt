@@ -1,0 +1,7 @@
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\NumberOfKSequece\bin\Debug\NumberOfKSequece.exe.config
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\NumberOfKSequece\bin\Debug\NumberOfKSequece.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\NumberOfKSequece\bin\Debug\NumberOfKSequece.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\NumberOfKSequece\obj\Debug\NumberOfKSequece.csprojResolveAssemblyReference.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\NumberOfKSequece\obj\Debug\NumberOfKSequece.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\NumberOfKSequece\obj\Debug\NumberOfKSequece.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\NumberOfKSequece\obj\Debug\NumberOfKSequece.pdb

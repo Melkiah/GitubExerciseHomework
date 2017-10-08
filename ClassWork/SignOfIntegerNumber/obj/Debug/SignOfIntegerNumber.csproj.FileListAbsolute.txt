@@ -1,0 +1,6 @@
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\SignOfIntegerNumber\bin\Debug\SignOfIntegerNumber.exe.config
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\SignOfIntegerNumber\bin\Debug\SignOfIntegerNumber.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\SignOfIntegerNumber\bin\Debug\SignOfIntegerNumber.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\SignOfIntegerNumber\obj\Debug\SignOfIntegerNumber.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\SignOfIntegerNumber\obj\Debug\SignOfIntegerNumber.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\SignOfIntegerNumber\obj\Debug\SignOfIntegerNumber.pdb

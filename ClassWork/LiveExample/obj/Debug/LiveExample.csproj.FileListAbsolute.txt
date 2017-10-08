@@ -1,0 +1,7 @@
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\LiveExample\bin\Debug\LiveExample.exe.config
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\LiveExample\bin\Debug\LiveExample.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\LiveExample\bin\Debug\LiveExample.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\LiveExample\obj\Debug\LiveExample.csprojResolveAssemblyReference.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\LiveExample\obj\Debug\LiveExample.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\LiveExample\obj\Debug\LiveExample.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\ClassWork\LiveExample\obj\Debug\LiveExample.pdb

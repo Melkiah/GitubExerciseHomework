@@ -1,0 +1,7 @@
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\CubeProperties\bin\Debug\CubeProperties.exe.config
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\CubeProperties\bin\Debug\CubeProperties.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\CubeProperties\bin\Debug\CubeProperties.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\CubeProperties\obj\Debug\CubeProperties.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\CubeProperties\obj\Debug\CubeProperties.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\CubeProperties\obj\Debug\CubeProperties.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\CubeProperties\obj\Debug\CubeProperties.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\EnglishOfLastLetter\bin\Debug\EnglishOfLastLetter.exe.config
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\EnglishOfLastLetter\bin\Debug\EnglishOfLastLetter.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\EnglishOfLastLetter\bin\Debug\EnglishOfLastLetter.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\EnglishOfLastLetter\obj\Debug\EnglishOfLastLetter.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\EnglishOfLastLetter\obj\Debug\EnglishOfLastLetter.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\EnglishOfLastLetter\obj\Debug\EnglishOfLastLetter.pdb

@@ -1,0 +1,7 @@
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\ArraysLecture\bin\Debug\ArraysLecture.exe.config
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\ArraysLecture\bin\Debug\ArraysLecture.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\ArraysLecture\bin\Debug\ArraysLecture.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\ArraysLecture\obj\Debug\ArraysLecture.csprojResolveAssemblyReference.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\ArraysLecture\obj\Debug\ArraysLecture.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\ArraysLecture\obj\Debug\ArraysLecture.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\ArraysLecture\ArraysLecture\obj\Debug\ArraysLecture.pdb

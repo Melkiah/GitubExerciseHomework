@@ -1,0 +1,7 @@
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\CentrePoint\bin\Debug\CentrePoint.exe.config
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\CentrePoint\bin\Debug\CentrePoint.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\CentrePoint\bin\Debug\CentrePoint.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\CentrePoint\obj\Debug\CentrePoint.csprojResolveAssemblyReference.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\CentrePoint\obj\Debug\CentrePoint.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\CentrePoint\obj\Debug\CentrePoint.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\CentrePoint\obj\Debug\CentrePoint.pdb

@@ -1,0 +1,7 @@
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\MethodsAndDebuggingExercise\bin\Debug\MethodsAndDebuggingExercise.exe.config
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\MethodsAndDebuggingExercise\bin\Debug\MethodsAndDebuggingExercise.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\MethodsAndDebuggingExercise\bin\Debug\MethodsAndDebuggingExercise.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\MethodsAndDebuggingExercise\obj\Debug\MethodsAndDebuggingExercise.csprojResolveAssemblyReference.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\MethodsAndDebuggingExercise\obj\Debug\MethodsAndDebuggingExercise.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\MethodsAndDebuggingExercise\obj\Debug\MethodsAndDebuggingExercise.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\MethodsAndDebuggingExercise\obj\Debug\MethodsAndDebuggingExercise.pdb

@@ -1,0 +1,7 @@
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\LongerLine\bin\Debug\LongerLine.exe.config
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\LongerLine\bin\Debug\LongerLine.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\LongerLine\bin\Debug\LongerLine.pdb
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\LongerLine\obj\Debug\LongerLine.csprojResolveAssemblyReference.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\LongerLine\obj\Debug\LongerLine.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\LongerLine\obj\Debug\LongerLine.exe
+C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\LongerLine\obj\Debug\LongerLine.pdb
