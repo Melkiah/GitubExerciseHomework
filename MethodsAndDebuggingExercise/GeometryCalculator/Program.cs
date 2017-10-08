@@ -13,10 +13,23 @@ namespace GeometryCalculator
 
             switch (instruction)
             {
-                case "volume": return side * side * side; break;
-                case "face": return Math.Sqrt(side * side * 2); break;
-                case "area": return 6 * side * side; break;
-                case "space": return Math.Sqrt(3 * side * side); break;
+                case "triangle": return (a * b) / 2;
+                //case "square": return a * b;
+                case "rectangle": return a * b;
+                //case "circle": return Math.PI * a * b;
+                default: return 0;
+
+            }
+        }
+
+        static double GeometryCalculation(string instruction, double a)
+        {
+            switch (instruction)
+            {
+                //case "triangle": return (a * b) / 2;
+                case "square": return a * a;
+                //case "rectangle": return a * b;
+                case "circle": return Math.PI * a * a;
                 default: return 0;
 
             }
@@ -24,11 +37,23 @@ namespace GeometryCalculator
 
         static void Main(string[] args)
         {
-            string instruction = Console.ReadLine();
+            string instruction = Console.ReadLine().ToLower();
             double a = double.Parse(Console.ReadLine());
-            double b = double.Parse(Console.ReadLine());
+            if(instruction == "square" || instruction == "circle")
+            {
+                double result = GeometryCalculation(instruction, a);
 
-            GeometryCalculation(instruction, a, b);
+                Console.WriteLine("{0:F2}", result);
+            }
+            else
+            {
+                double b = double.Parse(Console.ReadLine());
+                double result = GeometryCalculation(instruction, a, b);
+                Console.WriteLine("{0:F2}", result);
+            }
+            
+
+            
         }
     }
 }

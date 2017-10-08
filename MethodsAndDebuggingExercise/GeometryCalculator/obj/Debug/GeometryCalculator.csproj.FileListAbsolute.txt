@@ -1,0 +1,6 @@
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\GeometryCalculator\bin\Debug\GeometryCalculator.exe.config
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\GeometryCalculator\bin\Debug\GeometryCalculator.exe
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\GeometryCalculator\bin\Debug\GeometryCalculator.pdb
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\GeometryCalculator\obj\Debug\GeometryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\GeometryCalculator\obj\Debug\GeometryCalculator.exe
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\GeometryCalculator\obj\Debug\GeometryCalculator.pdb

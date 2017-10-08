@@ -5,3 +5,10 @@ C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\CubePropertie
 C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\CubeProperties\obj\Debug\CubeProperties.exe
 C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\CubeProperties\obj\Debug\CubeProperties.pdb
 C:\Users\Desi\Desktop\SoftuniClassWork\MethodsAndDebuggingExercise\CubeProperties\obj\Debug\CubeProperties.csprojResolveAssemblyReference.cache
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\CubeProperties\bin\Debug\CubeProperties.exe.config
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\CubeProperties\bin\Debug\CubeProperties.exe
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\CubeProperties\bin\Debug\CubeProperties.pdb
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\CubeProperties\obj\Debug\CubeProperties.csprojResolveAssemblyReference.cache
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\CubeProperties\obj\Debug\CubeProperties.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\CubeProperties\obj\Debug\CubeProperties.exe
+C:\Users\Desi\Desktop\SoftUniWorkspace\GitubExerciseHomework\MethodsAndDebuggingExercise\CubeProperties\obj\Debug\CubeProperties.pdb
