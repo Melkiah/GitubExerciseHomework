@@ -13,10 +13,10 @@ namespace CubeProperties
 
             switch (instruction)
             {
-                case "volume": return side * side * side; break;
-                case "face": return Math.Sqrt(side*side*2);break;
-                case "area": return  6 * side * side;break;
-                case "space": return  Math.Sqrt(3 * side * side);break;
+                case "volume": return side * side * side;
+                case "face": return Math.Sqrt(side*side*2);
+                case "area": return  6 * side * side;
+                case "space": return  Math.Sqrt(3 * side * side);
                 default: return 0;
 
             }
@@ -29,7 +29,7 @@ namespace CubeProperties
 
             double result = CubeProperties(side, instruction);
 
-            Console.WriteLine(result);
+            Console.WriteLine("{0:F2}", result);
         }        
     }
 }
