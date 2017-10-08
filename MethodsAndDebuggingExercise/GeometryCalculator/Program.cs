@@ -8,7 +8,7 @@ namespace GeometryCalculator
 {
     class Program
     {
-        static double GeometryCalculation(double side, string instruction)
+        static double GeometryCalculation(string instruction, double a, double b)
         {
 
             switch (instruction)
@@ -25,10 +25,10 @@ namespace GeometryCalculator
         static void Main(string[] args)
         {
             string instruction = Console.ReadLine();
-            int a = int.Parse(Console.ReadLine());
-            int b = int.
+            double a = double.Parse(Console.ReadLine());
+            double b = double.Parse(Console.ReadLine());
 
-            GeometryCalculation()
+            GeometryCalculation(instruction, a, b);
         }
     }
 }
