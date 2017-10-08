@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ArraysExercises
+namespace _01_LargestCommonEnd
 {
     class LargestCommonEnd
     {
@@ -12,22 +12,20 @@ namespace ArraysExercises
         {
             string[] firstArray = Console.ReadLine().Split(' ');
             string[] secondArray = Console.ReadLine().Split(' ');
-            int shortest, rightCounter = 0, leftCounter = 0;            
-
-            shortest = Math.Min(firstArray.Length, secondArray.Length);         
-
+            int rightCount = 0;
+            int leftCount = 0;
+            int shortest = Math.Min(firstArray.Length, secondArray.Length);
             for (int i = 0; i < shortest; i++)
             {
                 if (firstArray[i] == secondArray[i])
                 {
-                    rightCounter++;
+                    rightCount++;
                 }
                 else
                 {
                     break;
                 }
             }
-
             int firstArrayLength = firstArray.Length - 1;
             int secondArrayLength = secondArray.Length - 1;
 
@@ -35,18 +33,17 @@ namespace ArraysExercises
             {
                 if (firstArray[firstArrayLength] == secondArray[secondArrayLength])
                 {
-                    leftCounter++;
+                    leftCount++;
                     firstArrayLength--;
                     secondArrayLength--;
                 }
                 else
-                {
+                {                    
                     break;
                 }
             }
 
-                 
-            Console.WriteLine(Math.Max(rightCounter,leftCounter));
+            Console.WriteLine(Math.Max(rightCount,leftCount));
         }
     }
 }
