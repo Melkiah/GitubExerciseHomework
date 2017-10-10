@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateAndSum", "RotateAndSu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoldAndSum", "FoldAndSum\FoldAndSum.csproj", "{EBA5073F-D2CE-4193-AE51-AFEE6DBA008F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SieveOfEritostenes", "SieveOfEritostenes\SieveOfEritostenes.csproj", "{8E8956D3-A99E-4013-9484-E0DD1AF7842C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EBA5073F-D2CE-4193-AE51-AFEE6DBA008F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBA5073F-D2CE-4193-AE51-AFEE6DBA008F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBA5073F-D2CE-4193-AE51-AFEE6DBA008F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E8956D3-A99E-4013-9484-E0DD1AF7842C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8956D3-A99E-4013-9484-E0DD1AF7842C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8956D3-A99E-4013-9484-E0DD1AF7842C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8956D3-A99E-4013-9484-E0DD1AF7842C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
