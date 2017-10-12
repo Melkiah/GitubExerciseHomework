@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SieveOfEritostenes", "Sieve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSequenceOfEqualElements", "MaxSequenceOfEqualElements\MaxSequenceOfEqualElements.csproj", "{D4716B53-46D1-4789-9072-03E712A94404}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSequenceOfIncreasingElements", "MaxSequenceOfIncreasingElements\MaxSequenceOfIncreasingElements.csproj", "{CA6A9842-766B-46A2-9C94-9EC440AE12EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D4716B53-46D1-4789-9072-03E712A94404}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4716B53-46D1-4789-9072-03E712A94404}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4716B53-46D1-4789-9072-03E712A94404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA6A9842-766B-46A2-9C94-9EC440AE12EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6A9842-766B-46A2-9C94-9EC440AE12EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6A9842-766B-46A2-9C94-9EC440AE12EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6A9842-766B-46A2-9C94-9EC440AE12EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
