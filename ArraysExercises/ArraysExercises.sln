@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoldAndSum", "FoldAndSum\Fo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SieveOfEritostenes", "SieveOfEritostenes\SieveOfEritostenes.csproj", "{8E8956D3-A99E-4013-9484-E0DD1AF7842C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSequenceOfEqualElements", "MaxSequenceOfEqualElements\MaxSequenceOfEqualElements.csproj", "{D4716B53-46D1-4789-9072-03E712A94404}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8E8956D3-A99E-4013-9484-E0DD1AF7842C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E8956D3-A99E-4013-9484-E0DD1AF7842C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E8956D3-A99E-4013-9484-E0DD1AF7842C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4716B53-46D1-4789-9072-03E712A94404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4716B53-46D1-4789-9072-03E712A94404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4716B53-46D1-4789-9072-03E712A94404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4716B53-46D1-4789-9072-03E712A94404}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
