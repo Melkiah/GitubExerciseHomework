@@ -11,29 +11,34 @@ namespace MaxSequenceOfEqualElements
         static void Main(string[] args)
         {
             string[] inputArray = Console.ReadLine().Split(' ');
-            int largest = 0;
-            int last = 0;
+            int bestLen = 0, bestStart = 0;
+            int start = 0;
             int len = 1;
 
-            for (int i = 0; i < inputArray.Length-1; i++)
+            for (int i = 1; i < inputArray.Length; i++)
             {
-                if(inputArray[i].Equals(inputArray[i + 1]))
+                if(inputArray[i].Equals(inputArray[i - 1]))
                 {
                     len++;
-                    if (len > largest)
-                    {
-                        largest = len;                        
-                        last = i+1;
-                    }
                 }
                 else
                 {
                     len = 1;
+                    start = i;
+                }
+
+                if(len > bestLen)
+                {
+                    bestLen = len;
+                    bestStart = start;
                 }
                 
             }
 
-            for (int i = last; i >= last-largest+1; i--)
+            //Console.WriteLine(bestStart);
+            //Console.WriteLine(bestLen);
+
+            for (int i = bestStart; i <= bestLen + bestStart -1; i++)
             {
                 Console.Write(inputArray[i] + " ");
             }
