@@ -10,6 +10,9 @@ namespace ClassWork
     {
         static void Main(string[] args)
         {
+            Dictionary<string, string> phoneBook = new Dictionary<string, string>();
+
+            
         }
     }
 }
