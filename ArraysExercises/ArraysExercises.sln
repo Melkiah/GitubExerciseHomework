@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexLetters", "IndexLetter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairsByDifference", "PairsByDifference\PairsByDifference.csproj", "{620C5B9F-7C2A-45EE-9794-795022C7A6F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualSum", "EqualSum\EqualSum.csproj", "{2D4984A7-48F1-4A0F-AFF3-001B262EF43F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{620C5B9F-7C2A-45EE-9794-795022C7A6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{620C5B9F-7C2A-45EE-9794-795022C7A6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{620C5B9F-7C2A-45EE-9794-795022C7A6F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D4984A7-48F1-4A0F-AFF3-001B262EF43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4984A7-48F1-4A0F-AFF3-001B262EF43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4984A7-48F1-4A0F-AFF3-001B262EF43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4984A7-48F1-4A0F-AFF3-001B262EF43F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
