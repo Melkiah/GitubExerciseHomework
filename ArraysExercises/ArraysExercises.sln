@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestCommonEnd", "ArraysExercises\LargestCommonEnd.csproj", "{7A179BBD-7299-41CD-9BA9-9D3BAA678B66}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSequenceOfEqualElements", "MaxSequenceOfEqualElements\MaxSequenceOfEqualElements.csproj", "{D4716B53-46D1-4789-9072-03E712A94404}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSequenceOfIncreasingElements", "MaxSequenceOfIncreasingElements\MaxSequenceOfIncreasingElements.csproj", "{CA6A9842-766B-46A2-9C94-9EC440AE12EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostFrequentNumber", "MostFrequentNumber\MostFrequentNumber.csproj", "{9AAB28D2-C0E4-485E-91EF-2E18D8119DF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{CA6A9842-766B-46A2-9C94-9EC440AE12EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA6A9842-766B-46A2-9C94-9EC440AE12EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA6A9842-766B-46A2-9C94-9EC440AE12EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AAB28D2-C0E4-485E-91EF-2E18D8119DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAB28D2-C0E4-485E-91EF-2E18D8119DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAB28D2-C0E4-485E-91EF-2E18D8119DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAB28D2-C0E4-485E-91EF-2E18D8119DF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
