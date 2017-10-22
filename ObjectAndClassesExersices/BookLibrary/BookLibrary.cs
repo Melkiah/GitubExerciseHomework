@@ -16,10 +16,9 @@ namespace BookLibrary
         public string ISBN { get; set; }
         public decimal Price { get; set; }
 
-        public Book(string title, string autor, string publisher, DateTime releaseDate, string ISBN, decimal price)
+        public Book(string title, string publisher, DateTime releaseDate, string ISBN, decimal price)
         {
             this.Title = title;
-            this.Author = autor;
             this.Publisher = publisher;
             this.ReleaseDate = releaseDate;
             this.ISBN = ISBN;
@@ -32,7 +31,22 @@ namespace BookLibrary
         public string Name { get; set; }
         public List<Book> Books { get; set; }
 
+        public Library(String name)
+        {
+            this.Name = name;
+            this.Books = new List<Book>();
+        }
 
+        public decimal GetBooksValue()
+        {
+            decimal sum = 0;
+            foreach (var item in this.Books)
+            {
+                sum += item.Price;
+            }
+
+            return sum;
+        }
     }
 
     class BookLibrary
@@ -41,34 +55,55 @@ namespace BookLibrary
         {
             int n = int.Parse(Console.ReadLine());
 
-            List<Book> bookList = new List<Book>();
+            List<Library> library = new List<Library>();
 
             for (int i = 0; i < n; i++)
             {
                 string[] input = Console.ReadLine().Split().ToArray();
                 Book book = new Book(
                 input[0],
-                input[1],
                 input[2],
                 DateTime.ParseExact(input[3], "dd.MM.yyyy", CultureInfo.InvariantCulture),
                 input[4],
                 decimal.Parse(input[5]));
-                bookList.Add(book);
+
+                if (!ContainsAuthor(library, input[1]))
+                {
+                    Library newLibrary = new Library(input[1]);
+                    newLibrary.Books.Add(book);
+                    library.Add(newLibrary);
+                }
+                else
+                {
+                    foreach (var item in library)
+                    {
+                        if (item.Name == input[1])
+                        {
+                            item.Books.Add(book);
+                        }
+                    }
+                }
             }
 
-            var list = bookList.GroupBy(book => book.Author)
-                .Select(l => new
-                {
-                    Author = l.Key,
-                    Price = l.Sum(p => p.Price)
-                })
-                .OrderByDescending(p => p.Price)
-                .ThenBy(a => a.Author).ToList();
+            var list  = library.OrderByDescending(x => x.GetBooksValue()).ThenBy(x =>x.Name);
 
             foreach (var item in list)
             {
-                Console.WriteLine("{0} -> {1}", item.Author, item.Price);
+                Console.WriteLine($"{item.Name} -> {item.GetBooksValue():F2}");
             }
+            
+        }
+
+        public static bool ContainsAuthor(List<Library> library, string v)
+        {
+            foreach (var item in library)
+            {
+                if (item.Name == v)
+                {
+                    return true;
+                }
+            }
+            return false;
         }
     }
 }
